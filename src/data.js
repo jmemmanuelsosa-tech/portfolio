@@ -2,8 +2,8 @@
 
 export const profile = {
   name: 'Juan Marcelo Emmanuel Sosa',
-  shortName: 'Juan Sosa',
-  role: 'Desarrollador Java Backend',
+  shortName: 'JME Sosa',
+  role: 'Desarrollador Backend',
   focus: 'Orientación Full-Stack con React',
   location: 'Santo Tomé, Corrientes, AR',
   timezone: 'America/Argentina/Buenos_Aires',
@@ -12,7 +12,7 @@ export const profile = {
   whatsapp: 'https://wa.me/5493756619987',
   linkedin: 'https://www.linkedin.com/in/jmemmanuelsosa',
   github: 'https://github.com/jmemmanuelsosa-tech',
-  cv: '/cv-juan-sosa.pdf',
+  cv: '/CV-Juan-Marcelo-Emmanuel-Sosa.pdf',
   photo: '/foto-juan.jpg',
   available: true,
   intro:
@@ -53,7 +53,7 @@ export const projects = [
     description:
       'API de gestión de pedidos con autenticación JWT, documentación con Swagger, tests unitarios con Mockito y despliegue con Docker.',
     stack: ['Spring Boot', 'Spring Security', 'JWT', 'Swagger', 'Mockito', 'MySQL', 'Docker'],
-    repo: 'https://github.com/jmemmanuelsosa-tech',
+    repo: 'https://github.com/jmemmanuelsosa-tech/gestion-pedidos',
     demo: '',
   },
   {
